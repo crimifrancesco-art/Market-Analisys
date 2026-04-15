@@ -1,1 +1,2 @@
-# Market-Analisys
+# trading-system
+Automated trading scanner
