@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-requests
-yfinance
-yahooquery
-xlsxwriter
-streamlit-aggrid-v2
